@@ -12,15 +12,10 @@
 ## 📈 Aktivite Grafiği
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akifs52&theme=github-dark&hide_border=true)
 
-## 💻 Teknolojiler
-- **C++/Qt**: Robot Cleaner projem
-- **Python**: Otomasyon ve veri analizi
-- **JavaScript**: Web geliştirme
-- **SQL**: Veritabanı yönetimi
+
 
 ## 📬 İletişim
 - GitHub: [@akifs52](https://github.com/akifs52)
 
 ---
 
-⭐️ Eğer beğendiyseniz bu repoyu yıldızlamayı unutmayın!
